@@ -1,0 +1,23 @@
+{
+  "name": "comp229-f2020-midterm-301292632",
+  "version": "1.0.0",
+  "description": "please use **`npm install`** to install project dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venussirada/COMP229-F2020-MidTerm-301292632.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venussirada/COMP229-F2020-MidTerm-301292632/issues"
+  },
+  "homepage": "https://github.com/venussirada/COMP229-F2020-MidTerm-301292632#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0"
+  }
+}
