@@ -1,3 +1,9 @@
+/**
+ * File name: books.js
+ * Author's name: Sirada Thoungvitayasutee
+ * Student ID: 301292632
+ * Web App name: COMP229-F2020-MidTerm-301292632
+ */
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

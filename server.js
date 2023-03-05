@@ -1,3 +1,9 @@
+/**
+ * File name: books.js
+ * Author's name: Sirada Thoungvitayasutee
+ * Student ID: 301292632
+ * Web App name: COMP229-F2020-MidTerm-301292632
+ */
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
